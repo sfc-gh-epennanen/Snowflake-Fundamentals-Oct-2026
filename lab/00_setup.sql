@@ -1,5 +1,5 @@
 /*****************************************************************************************
-  Netcompany Norway x Snowflake - Hands-on Snowflake Fundamentals
+  Hands-on Snowflake Fundamentals
   00_setup.sql  -  run this ONCE at the start of the lab (takes ~3-6 minutes)
 
   HOW TO RUN
