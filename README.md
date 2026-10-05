@@ -1,17 +1,7 @@
-# Snowflake Fundamentals — Hands-on Lab for Netcompany Norway
-
-**Date:** Tuesday 6 October 2026, 16:00–18:00 (dinner at 18:00)  |  **Presenter:** Elli Pennanen, Senior Partner Solution Engineer, Snowflake
+# Snowflake Fundamentals — Hands-on Lab
 
 Welcome! In this session you get hands-on with Snowflake's core capabilities in your own trial account. After that, we look at how to position Snowflake in pre-sales and tenders.
 
-## Agenda
-
-| Time | Block |
-|------|-------|
-| 16:00 – 17:25 | **Hands-on Snowflake Fundamentals** (this guide) |
-| 17:25 – 17:30 | Break |
-| 17:30 – 18:00 | **Snowflake in a Sales Context**: business value, tender answers, Q&A ([playbook](sales/sales-context-playbook.md)) |
-| 18:00 | Dinner |
 
 ## Before you arrive
 
