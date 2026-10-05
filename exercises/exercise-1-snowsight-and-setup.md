@@ -22,7 +22,7 @@ Follow along as the presenter shows these areas in the left navigation:
 |------|----------------|
 | **Projects → Workspaces** | Where you write SQL and Python. Files, folders, Git integration |
 | **Catalog → Database Explorer** | Browse databases, schemas, tables, views and their lineage |
-| **AI & ML** | Cortex AI features: Playground, Agents, Search, Snowflake Intelligence |
+| **AI & ML** | Cortex AI features: Playground, Agents, Search, Snowflake CoWork |
 | **Monitoring → Query History** | Every query that ran, who ran it, how long it took, Query Profile |
 | **Admin → Warehouses / Cost Management** | Compute and spend |
 | **Data Products → Marketplace** | Third-party and public data you can query instantly |
